@@ -31,7 +31,7 @@
 			<g:description>Sample Wig - Blonde Wavy from Sample Store. Test product for XML feed import.</g:description>
 			<g:link>https://www.example.com/product/sku1002</g:link>
 			<g:condition>new</g:condition>
-			<g:price>1219.89 USD</g:price>
+			<g:price>129.89 USD</g:price>
 			<g:availability>in stock</g:availability>
 			<g:image_link>https://www.example.com/images/wig-blonde-wavy.jpg</g:image_link>
 			<g:brand>SampleBrand</g:brand>
@@ -51,7 +51,7 @@
 			<g:description>Sample Toupee - Thin Skin from Sample Store. Test product for XML feed import.</g:description>
 			<g:link>https://www.example.com/product/sku1003</g:link>
 			<g:condition>new</g:condition>
-			<g:price>1239.00 USD</g:price>
+			<g:price>139.00 USD</g:price>
 			<g:availability>in stock</g:availability>
 			<g:image_link>https://www.example.com/images/toupee-thin-skin.jpg</g:image_link>
 			<g:brand>SampleBrand</g:brand>
@@ -71,7 +71,7 @@
 			<g:description>Sample Wig - Pastel Blue from Sample Store. Test product for XML feed import.</g:description>
 			<g:link>https://www.example.com/product/sku1004</g:link>
 			<g:condition>new</g:condition>
-			<g:price>1229.89 USD</g:price>
+			<g:price>129.89 USD</g:price>
 			<g:availability>in stock</g:availability>
 			<g:image_link>https://www.example.com/images/wig-pastel-blue.jpg</g:image_link>
 			<g:brand>SampleBrand</g:brand>
@@ -91,7 +91,7 @@
 			<g:description>Sample Wig - Ombre Grey Brown from Sample Store. Test product for XML feed import.</g:description>
 			<g:link>https://www.example.com/product/sku1005</g:link>
 			<g:condition>new</g:condition>
-			<g:price>1229.89 USD</g:price>
+			<g:price>129.89 USD</g:price>
 			<g:availability>in stock</g:availability>
 			<g:image_link>https://www.example.com/images/wig-ombre-grey-brown.jpg</g:image_link>
 			<g:brand>SampleBrand</g:brand>
@@ -111,7 +111,7 @@
 			<g:description>Sample Monofilament Hair System from Sample Store. Test product for XML feed import.</g:description>
 			<g:link>https://www.example.com/product/sku1006</g:link>
 			<g:condition>new</g:condition>
-			<g:price>1289.00 USD</g:price>
+			<g:price>189.00 USD</g:price>
 			<g:availability>in stock</g:availability>
 			<g:image_link>https://www.example.com/images/mono-hair-system.jpg</g:image_link>
 			<g:brand>SampleBrand</g:brand>
@@ -131,7 +131,7 @@
 			<g:description>Sample All Lace Hair System from Sample Store. Test product for XML feed import.</g:description>
 			<g:link>https://www.example.com/product/sku1007</g:link>
 			<g:condition>new</g:condition>
-			<g:price>1319.00 USD</g:price>
+			<g:price>319.00 USD</g:price>
 			<g:availability>in stock</g:availability>
 			<g:image_link>https://www.example.com/images/all-lace-system.jpg</g:image_link>
 			<g:brand>SampleBrand</g:brand>
@@ -151,7 +151,7 @@
 			<g:description>Sample Wig - Hot Pink from Sample Store. Test product for XML feed import.</g:description>
 			<g:link>https://www.example.com/product/sku1008</g:link>
 			<g:condition>new</g:condition>
-			<g:price>1129.89 USD</g:price>
+			<g:price>129.89 USD</g:price>
 			<g:availability>in stock</g:availability>
 			<g:image_link>https://www.example.com/images/wig-hot-pink.jpg</g:image_link>
 			<g:brand>SampleBrand</g:brand>
@@ -171,7 +171,7 @@
 			<g:description>Sample Wig - Dark Brown Balayage from Sample Store. Test product for XML feed import.</g:description>
 			<g:link>https://www.example.com/product/sku1009</g:link>
 			<g:condition>new</g:condition>
-			<g:price>1229.89 USD</g:price>
+			<g:price>129.89 USD</g:price>
 			<g:availability>in stock</g:availability>
 			<g:image_link>https://www.example.com/images/wig-dark-brown-balayage.jpg</g:image_link>
 			<g:brand>SampleBrand</g:brand>
@@ -191,7 +191,7 @@
 			<g:description>Sample Human Hair Topper from Sample Store. Test product for XML feed import.</g:description>
 			<g:link>https://www.example.com/product/sku1010</g:link>
 			<g:condition>new</g:condition>
-			<g:price>1457.98 USD</g:price>
+			<g:price>147.98 USD</g:price>
 			<g:availability>in stock</g:availability>
 			<g:image_link>https://www.example.com/images/human-hair-topper.jpg</g:image_link>
 			<g:brand>SampleBrand</g:brand>
